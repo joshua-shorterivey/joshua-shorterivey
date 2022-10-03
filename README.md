@@ -1,4 +1,4 @@
-### Hi there 👋
+### Check out the code. 
 
 <!--
 **joshua-shorterivey/joshua-shorterivey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
